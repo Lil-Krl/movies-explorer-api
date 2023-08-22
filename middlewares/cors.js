@@ -1,8 +1,8 @@
 const allowedCors = [
   '',
   '',
-  '',
-  '',
+  'https://api.lil-krl.movies.nomoredomainsicu.ru/',
+  'http://api.lil-krl.movies.nomoredomainsicu.ru/',
   'https://localhost:3000',
   'http://localhost:3000',
 ];
